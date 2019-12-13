@@ -1,4 +1,4 @@
-//Copyright 2019 <LinkIvan333>
+//Copyright 2019 <rijiy>
 #ifndef INCLUDE_JSON_HPP_
 #define INCLUDE_JSON_HPP_
 
