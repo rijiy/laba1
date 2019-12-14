@@ -1,0 +1,7 @@
+/cygdrive/c/laba1/laba1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/laba1/laba1/cmake-build-debug/CMakeFiles/tests.dir
+/cygdrive/c/laba1/laba1/cmake-build-debug/CMakeFiles/main.dir
+/cygdrive/c/laba1/laba1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/laba1/laba1/cmake-build-debug/CMakeFiles/Json.dir
+/cygdrive/c/laba1/laba1/cmake-build-debug/CMakeFiles/source.dir
+/cygdrive/c/laba1/laba1/cmake-build-debug/CMakeFiles/test.dir
